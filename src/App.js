@@ -1,9 +1,15 @@
 import React from "react";
-import logo from "./logo.svg";
 import "./App.css";
+import Supernova from "./Supernova";
 
 function App() {
-  return <div className="App"></div>;
+  return (
+    <div className="App">
+      <div className="Supernova">
+        <Supernova />
+      </div>
+    </div>
+  );
 }
 
 export default App;
