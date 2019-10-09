@@ -1,0 +1,13 @@
+[
+  {
+    "name": "SN2002ap",
+    "alias": "AAVSO 0131+15",
+    "discoverer": {
+      "firstName": "Yoji",
+      "lastName": "Hirose"
+    },
+    "date": "2002/02/29",
+    "distance_mpc": "9.3443",
+    "type": "Ic BL"
+  }
+]
